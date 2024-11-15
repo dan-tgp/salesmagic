@@ -64,7 +64,7 @@ Project Name:  Local Dealers SEO Program
 
 Implementation Hours:  80
 
-Project Cost: $  79,200
+Project Cost: $  35,300
 
 Timeline (months):  5
 
