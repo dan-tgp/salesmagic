@@ -1,6 +1,9 @@
-<!-- TGP Proposal Template -->
-<!-- Version 1.1 -->
-<!-- This template provides the structure for TGP consulting proposals -->
+<!-- TGP Proposal Output Template -->
+<!-- Version 1.2 -->
+<!-- IMPORTANT NOTE TO CLAUDE: This template should be populated using enhanced versions of the input form content.
+     Transform all shorthand inputs into polished, professional proposal language.
+     Maintain consistency with style guide while expanding and improving upon the base input.
+     Ensure each section is compelling, detailed, and focused on business value. -->
 
 # [Service] Consulting Proposal for [Client Name]
 
