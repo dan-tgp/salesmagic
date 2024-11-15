@@ -18,8 +18,6 @@ Client Contact Title:  President
 
 Proposal Date:  11-15-2024
 
-Assumed Work-Starts Date: 1-1-2025
-
 ## PROJECT DETAILS
 
 Number of Projects in Scope:  6
@@ -62,7 +60,7 @@ Expected Completion Date:  9-1-2025
 
 ## PROJECT 4
 
-Project Name:  Multi-Local SEO Program
+Project Name:  Local Dealers SEO Program
 
 Implementation Hours:  80
 
@@ -74,20 +72,32 @@ Expected Completion Date:  11-1-2025
 
 ## PROJECT 5
 
-Project Name:  Create a Marine Resource Center
+Project Name:  Create The Marine Resource Center
 
 Implementation Hours:  Implementation is included.
 
 Project Cost: $  79,200
 
-Timeline (months):  5
+Timeline (months):  8
 
 Expected Completion Date:  11-1-2025
+
+## PROJECT 6
+
+Project Name:  Digital PR Campaigns
+
+Implementation Hours:  N/A
+
+Project Cost: $  48,400
+
+Timeline (months):  12
+
+Expected Completion Date:  1-1-2026
 
 [Continue pattern for additional projects...]
 
 ## TIMELINE OVERVIEW
 
-Overall Project Start Date:  
+Overall Project Start Date:  1-1-2025
 
-Overall Project End Date:
+Overall Project End Date: 1-1-2026
