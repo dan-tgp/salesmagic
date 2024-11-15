@@ -80,7 +80,7 @@ Project Cost: $  79,200
 
 Timeline (months):  8
 
-Expected Completion Date:  11-1-2025
+Expected Completion Date:  10-1-2025
 
 ## PROJECT 6
 
