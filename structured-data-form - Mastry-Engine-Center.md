@@ -64,7 +64,7 @@ Project Name:  Local Dealers SEO Program
 
 Implementation Hours:  80
 
-Project Cost: $  35,300
+Project Cost: $  79,200
 
 Timeline (months):  5
 
@@ -76,7 +76,7 @@ Project Name:  Create The Marine Resource Center
 
 Implementation Hours:  Implementation is included.
 
-Project Cost: $  79,200
+Project Cost: $  35,300
 
 Timeline (months):  8
 
