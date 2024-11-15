@@ -1,33 +1,46 @@
 # TGP PROPOSAL NARRATIVE INPUT GUIDE
 
-## PROJECT 1: [Project Name]
+## PROJECT 1
+Project Name:  
 
 ### Problem Statement
 Prompt: "The main issue we're solving here is..."
-Response:
+
+Your Response:  
+
 
 ### Solution Approach
 Prompt: "Here's how we'll address this..."
-Response:
+
+Your Response:  
+
 
 ### Keys to Success
 Prompt: "The critical factors will be..."
-Response:
+
+Your Response:  
+
 
 ### Completion Conditions
 Prompt: "We'll know we're done when..."
-Response:
+
+Your Response:  
+
 
 ### Investment Rationale
 Prompt: "This is worth doing because..."
-Response:
+
+Your Response:  
+
 
 ### Required Resources
 Prompt: "What we'll need from the client is..."
-Response:
 
-## PROJECT 2: [Project Name]
-[Repeat same sections as above]
+Your Response:  
+
+
+## PROJECT 2
+[Same format as above]
 
 # RECORDING TIPS
 - Speak naturally but clearly
