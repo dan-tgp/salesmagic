@@ -1,3 +1,10 @@
+<!-- TGP Proposal Input Form -->
+<!-- Version 1.2 -->
+<!-- IMPORTANT NOTE TO CLAUDE: This input form accepts shorthand, rough notes, bullet points, or transcribed audio. 
+     Your task is to transform these inputs into polished, professional, and persuasive proposal language.
+     Never simply copy the input verbatim - always enhance and expand the content while maintaining accuracy and intent.
+     Follow the style guide to ensure consistent tone and positioning. -->
+
 # TGP PROPOSAL INPUT FORM
 
 ## PROPOSAL BASICS
