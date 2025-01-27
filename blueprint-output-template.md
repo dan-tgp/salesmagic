@@ -59,8 +59,15 @@ gantt
 - [Key success factor 3]
 - [Additional key success factors as needed]
 
-**Implementation Time:**
-We have budgeted [XX] hours for the implementation of [project deliverables] on the [platform/deliverable].
+**Implementation Model:**
+[If the client is implementing the project...]
+[Client] will implement the solutions identified in this project based on the specifications delivered by Trend Growth Partners.
+
+[If TGP is implementing the project with an hourly budget...]
+We have budgeted [XX] hours for the implementation of [project deliverables] on the [platform].
+
+[If TGP is implementing the project entirely...]
+Trend Growth Partners will implement this project completely.
 
 **Cost & Timeline:**
 The cost of Project [#] is $[XX,XXX] and is expected to take approximately [X] months to complete.
