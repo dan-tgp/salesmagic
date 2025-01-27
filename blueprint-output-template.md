@@ -44,7 +44,7 @@ gantt
     section Account Management
     Account Management & Reporting :[Start Date], [End Date]
 ```
-
+## Project Details
 ### Project 1: [Project Name]
 
 **Problem:**
