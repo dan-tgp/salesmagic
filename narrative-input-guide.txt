@@ -30,8 +30,12 @@ Response:
 Prompt: "This is worth doing because..."
 Response:
 
+### KPIs & Success Metrics
+Prompt: "We'll be able to measure our success or performance on this project by the following..."
+Response:
+
 ### Required Resources
-Prompt: "What we'll need from the client is..."
+Prompt: "The resources required for successful completion of this project are as follows (from client or technology/software)..."
 Response:
 
 ## PROJECT 2: [Project Name]
