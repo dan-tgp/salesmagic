@@ -14,7 +14,6 @@ Number of Projects:
 Account Manager Name:
 Account Manager Title:
 
-
 ### MARKET OPPORTUNITY ANALYSIS
 
 ## MARKET ANALYSIS DATA
