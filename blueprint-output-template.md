@@ -16,7 +16,7 @@ Prepared by [Preparer Name], [Preparer Title]
 ## Executive Summary
 [Executive summary of the client's needs, situation, opportunity, and the Blueprint.]
 
-## Summary of Projects
+## Project Roadmap
 
 | Project # | Project Name | Est. Completion Date | Complete When | Cost |
 |-----------|--------------|---------------------|---------------|------|
