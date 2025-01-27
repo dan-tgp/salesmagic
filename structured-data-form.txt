@@ -11,6 +11,8 @@ Overall Project Start Date:
 Overall Project End Date:
 Target 12-Month Budget:
 Number of Projects:
+Account Manager Name:
+Account Manager Title:
 
 ### PROJECT 1
 Project Name: 
