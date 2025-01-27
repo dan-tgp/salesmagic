@@ -4,14 +4,19 @@
      Transform all shorthand inputs into polished, professional proposal language.
      Maintain consistency with style guide while expanding and improving upon the base input.
      Ensure each section is compelling, detailed, and focused on business value. -->
+<img src="https://raw.githubusercontent.com/dan-tgp/Logos/refs/heads/main/TGP%20Logo_1000_400_W_TGP%20Blue_blu.png" alt="TGP Logo" width="150">
 
 # Organic Growth Blueprint for [Client Name]
+**CONFIDENTIAL AND PROPRIETARY**\
+*[Blueprint Date]*
 
 Prepared for [Client Contact Name], [Client Contact Title]\
-Prepared by [Preparer Name], [Preparer Title]\
-Date: [Proposal Date]
+Prepared by [Preparer Name], [Preparer Title]
 
-## Scope of Work
+## Executive Summary
+[Executive summary of the client's needs, situation, opportunity, and the Blueprint.]
+
+## Summary of Projects
 
 | Project # | Project Name | Est. Completion Date | Complete When | Cost |
 |-----------|--------------|---------------------|---------------|------|
@@ -86,17 +91,36 @@ This project is expected to be completed by [Date].
 [Additional Project sections following same format...]
 
 ### Account Management & Reporting
+[Account Manager Name] will serve as your dedicated [Account Manager Title] for this engagement and will be supported by the rest of the Trend Growth Partners team.
 
-**Program-Wide Support & Reporting:**
-- Monthly performance reporting and strategy review meetings
-- Dedicated account manager and project lead
-- Ongoing optimization recommendations and roadmap updates
-- Custom reporting dashboard and analytics setup
+- [Bullet point 1 describing the account management, communication, and reporting requriements.]
+- [Bullet point 2 describing the account management, communication, and reporting requriements.]
+- [Bullet point 3 describing the account management, communication, and reporting requriements.]
+- [Bullet point 4 describing the account management, communication, and reporting requriements.]
 
-[Account Manager Name] will serve as your dedicated [Account Manager Title] for this engagement.
+### About Trend Growth Partners
+
+Trend Growth Partners is a premier growth advisory firm specializing in organic acquisition strategies for venture and private equity-backed companies. Founded by successful startup founders and growth leaders with over 45 years of combined experience, we've led transformative organic growth programs for category-leading companies including Apollo.io, Toptal, Checkr, Sound United, Lowe's, and many others.
+
+At the core of our approach lies an unwavering commitment to sustainable growth through technical excellence and content authority. Our methodology combines sophisticated technical architecture with strategic content development, enabling companies to scale their organic presence while maintaining superior unit economics. This approach has proven particularly valuable for venture-backed companies seeking capital-efficient growth channels.
+
+Our delivery model centers around our comprehensive Blueprint process, creating detailed implementation roadmaps that cover everything from technical SEO architecture to content development systems. What sets us apart is our ability to not just plan but also implement these sophisticated strategies, with our team bringing deep expertise in:
+
+- Technical SEO & Web Performance
+- Content Authority Development
+- Strategic Digital PR
+- International SEO
+- Advanced Analytics Systems
+- Enterprise-Scale Content Operations
+
+The complexity of our work spans from managing million-URL infrastructures to implementing advanced lead scoring algorithms, from orchestrating international SEO campaigns to developing scalable content systems. Through ongoing partnerships, we continue to evolve strategies as companies grow, ensuring sustained market leadership in organic discovery.
+
+![Dan Kuthy](https://raw.githubusercontent.com/dan-tgp/Logos/refs/heads/main/Dan_headshot_circle_150-150.png) | ![Ashley Kemp](https://raw.githubusercontent.com/dan-tgp/Logos/refs/heads/main/ash-headshot-150x150.png) |
+|:--:|:--:|
+| **Dan Kuthy**<br>Chief Executive Officer | **Ashley Kemp**<br>Chief Operating Officer |
 
 ---
-
+<img src="https://raw.githubusercontent.com/dan-tgp/Logos/refs/heads/main/Logo_SymbolBlue_500x500.png" width="50px">
 *Note: All Scopes of Work will be governed by and subject to the Master Services Agreement between Trend Growth Partners, LLC and [Client Name].*
 
 ---
