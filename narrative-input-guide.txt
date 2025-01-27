@@ -1,4 +1,12 @@
-# TGP PROPOSAL NARRATIVE INPUT GUIDE
+# TGP BLUEPRINT NARRATIVE INPUT GUIDE
+
+### Executive Summary
+Prompt: "The key points for the executive summary are..."
+Response:
+
+### Account Management
+Prompt: "The client's account management and reporting needs are as follows..."
+Response:
 
 ## PROJECT 1: [Project Name]
 
