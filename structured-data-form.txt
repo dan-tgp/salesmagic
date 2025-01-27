@@ -14,14 +14,14 @@ Number of Projects:
 
 ### PROJECT 1
 Project Name: 
-Implementation Hours (optional): 
+Implementation Model: (Full Client, Full TGP, or TGP Hours Budget) 
 Project Cost:
 Timeline (months): 
 Expected Start Date:
 
 ### PROJECT 2
 Project Name: 
-Implementation Hours (optional): 
+Implementation Model: (Full Client, Full TGP, or TGP Hours Budget) 
 Project Cost: $
 Timeline (months): 
 Expected Start Date:
