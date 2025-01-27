@@ -2,7 +2,7 @@
 <!-- Version 1.0 -->
 <!-- This guide provides writing style and tone guidelines for TGP proposals -->
 
-# TGP Proposal Style Guide
+# TGP Blueprint Style Guide
 
 ## Voice and Tone Guidelines
 
@@ -72,13 +72,11 @@
 - Reference client's market position
 - Acknowledge industry challenges
 - Show understanding of competitive landscape
-- Reference relevant regulations/compliance
 - Connect to industry trends
 - Use industry-specific metrics
 
 ### Value Proposition
 - Emphasize TGP's expertise
-- Highlight relevant case studies
 - Show understanding of client's unique needs
 - Focus on differentiation
 - Emphasize partnership approach
