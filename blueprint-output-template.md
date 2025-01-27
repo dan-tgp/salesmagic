@@ -1,14 +1,14 @@
-<!-- TGP Proposal Output Template -->
+<!-- TGP Blueprint Output Template -->
 <!-- Version 1.2 -->
 <!-- IMPORTANT NOTE TO CLAUDE: This template should be populated using enhanced versions of the input form content.
      Transform all shorthand inputs into polished, professional proposal language.
      Maintain consistency with style guide while expanding and improving upon the base input.
      Ensure each section is compelling, detailed, and focused on business value. -->
 
-# [Service] Consulting Proposal for [Client Name]
+# Organic Growth Blueprint for [Client Name]
 
-Prepared by [Preparer Name], [Preparer Title]
-Prepared for [Client Contact Name], [Client Contact Title]
+Prepared for [Client Contact Name], [Client Contact Title]\
+Prepared by [Preparer Name], [Preparer Title]\
 Date: [Proposal Date]
 
 ## Scope of Work
