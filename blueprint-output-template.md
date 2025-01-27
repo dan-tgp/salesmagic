@@ -44,6 +44,47 @@ gantt
     section Account Management
     Account Management & Reporting :[Start Date], [End Date]
 ```
+## Market Opportunity Analysis
+
+### Current Organic Performance
+
+| Metric | Current Value | Industry Average | Growth Opportunity |
+|:-------|:-------------|:-----------------|:-------------------|
+| Domain Rating | [DR] | [Industry Avg DR] | [+/- Difference] |
+| Monthly Organic Traffic | [Traffic] | [Industry Avg Traffic] | [Potential Increase] |
+| Ranking Keywords | [# Keywords] | [Industry Avg Keywords] | [Keyword Gap] |
+| Traffic Value | $[Value] | $[Industry Avg Value] | $[Value Opportunity] |
+
+### Competitive Landscape
+
+| Competitor | Domain Rating | Monthly Traffic | Ranking Keywords | Traffic Value | Content Focus |
+|:-----------|:-------------|:----------------|:-----------------|:--------------|:--------------|
+| [Comp 1] | [DR] | [Traffic] | [Keywords] | $[Value] | [Focus Areas] |
+| [Comp 2] | [DR] | [Traffic] | [Keywords] | $[Value] | [Focus Areas] |
+| [Comp 3] | [DR] | [Traffic] | [Keywords] | $[Value] | [Focus Areas] |
+| [Client] | [DR] | [Traffic] | [Keywords] | $[Value] | [Focus Areas] |
+
+### Traffic & Conversion Distribution
+
+| Traffic Source | % of Traffic | % of Conversions |
+|:--------------|:-------------|:-----------------|
+| Organic Search | [%] | [%] |
+| Direct | [%] | [%] |
+| Referral | [%] | [%] |
+| Social | [%] | [%] |
+| Other | [%] | [%] |
+| **Total** | **100%** | **100%** |
+
+### Content Opportunities
+
+| Content Category | Estimated Monthly Volume | Competition | Current Coverage | Implementation Effort | Priority |
+|:----------------|:---------------------|:------------|:-----------------|:--------------------|:---------|
+| How-to Resources: [Topic Cluster] | [Volume] | [High/Med/Low] | [Strong/Weak/None] | [High/Med/Low] | [P1/P2/P3] |
+| Industry Analysis: [Topic Cluster] | [Volume] | [High/Med/Low] | [Strong/Weak/None] | [High/Med/Low] | [P1/P2/P3] |
+| Comparison Content: [Topic Cluster] | [Volume] | [High/Med/Low] | [Strong/Weak/None] | [High/Med/Low] | [P1/P2/P3] |
+| Case Studies: [Topic Cluster] | [Volume] | [High/Med/Low] | [Strong/Weak/None] | [High/Med/Low] | [P1/P2/P3] |
+| Product Guides: [Topic Cluster] | [Volume] | [High/Med/Low] | [Strong/Weak/None] | [High/Med/Low] | [P1/P2/P3] |
+
 ## Project Details
 ### Project 1: [Project Name]
 
