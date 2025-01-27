@@ -14,6 +14,66 @@ Number of Projects:
 Account Manager Name:
 Account Manager Title:
 
+
+### MARKET OPPORTUNITY ANALYSIS
+
+## MARKET ANALYSIS DATA
+Current Domain Rating: 
+Monthly Organic Traffic: 
+Number of Ranking Keywords: 
+Estimated Traffic Value: 
+
+### Industry Averages
+Average Domain Rating in Industry: 
+Average Monthly Traffic: 
+Average Keywords: 
+Average Traffic Value: 
+
+### Top 3 Competitors
+Competitor 1 Name: 
+Competitor 1 DR: 
+Competitor 1 Traffic: 
+Competitor 1 Keywords: 
+Competitor 1 Traffic Value: 
+Competitor 1 Content Focus: 
+
+Competitor 2 Name: 
+Competitor 2 DR: 
+Competitor 2 Traffic: 
+Competitor 2 Keywords: 
+Competitor 2 Traffic Value: 
+Competitor 2 Content Focus: 
+
+Competitor 2 Name: 
+Competitor 2 DR: 
+Competitor 2 Traffic: 
+Competitor 2 Keywords: 
+Competitor 2 Traffic Value: 
+Competitor 2 Content Focus: 
+
+Competitor 3 Name: 
+Competitor 3 DR: 
+Competitor 3 Traffic: 
+Competitor 3 Keywords: 
+Competitor 3 Traffic Value: 
+Competitor 3 Content Focus: 
+
+## Traffic & Conversion Distribution
+Source | Traffic % | Conversion %
+Organic Search: 
+Direct: 
+Referral: 
+Social: 
+Other: 
+
+## Content Opportunities
+[List 5 content categories with associated topic clusters, including for each:]
+- Estimated Monthly Volume
+- Competition Level
+- Current Coverage
+- Implementation Effort
+- Priority Level
+
 ### PROJECT 1
 Project Name: 
 Implementation Model: (Full Client, Full TGP, or TGP Hours Budget) 
