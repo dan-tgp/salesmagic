@@ -88,7 +88,7 @@ This project is expected to be completed by [Date].
 - [Bullet point 4 explaining the value and rationale for the investment]
 - [Bullet point 5 explaining the value and rationale for the investment]
 
-**Resources Needed from Client:**
+**Resources Required:**
 - [Bullet point 1 describing the resources, access, or support needed from the client]
 - [Bullet point 2 describing the resources, access, or support needed from the client]
 - [Bullet point 3 describing the resources, access, or support needed from the client]
