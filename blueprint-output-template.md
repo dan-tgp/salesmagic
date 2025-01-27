@@ -19,7 +19,7 @@ Prepared by [Preparer Name], [Preparer Title]
 ## Project Roadmap
 
 | Project # | Project Name | Duration | Key Benefit | Cost |
-|-----------|--------------|------------------|-------------|------|
+|:---------:|:------------:|:--------:|:----------:|:----:|
 | 1 | [Project 1 Name] | [X months] | [Key benefit] | $[XX,XXX] |
 | 2 | [Project 2 Name] | [X months] | [Key benefit] | $[XX,XXX] |
 | 3 | [Project 3 Name] | [X months] | [Key benefit] | $[XX,XXX] |
@@ -100,20 +100,7 @@ This project is expected to be completed by [Date].
 
 ### About Trend Growth Partners
 
-Trend Growth Partners is a premier growth advisory firm specializing in organic acquisition strategies for venture and private equity-backed companies. Founded by successful startup founders and growth leaders with over 45 years of combined experience, we've led transformative organic growth programs for category-leading companies including Apollo.io, Toptal, Checkr, Sound United, Lowe's, and many others.
-
-At the core of our approach lies an unwavering commitment to sustainable growth through technical excellence and content authority. Our methodology combines sophisticated technical architecture with strategic content development, enabling companies to scale their organic presence while maintaining superior unit economics. This approach has proven particularly valuable for venture-backed companies seeking capital-efficient growth channels.
-
-Our delivery model centers around our comprehensive Blueprint process, creating detailed implementation roadmaps that cover everything from technical SEO architecture to content development systems. What sets us apart is our ability to not just plan but also implement these sophisticated strategies, with our team bringing deep expertise in:
-
-- Technical SEO & Web Performance
-- Content Authority Development
-- Strategic Digital PR
-- International SEO
-- Advanced Analytics Systems
-- Enterprise-Scale Content Operations
-
-The complexity of our work spans from managing million-URL infrastructures to implementing advanced lead scoring algorithms, from orchestrating international SEO campaigns to developing scalable content systems. Through ongoing partnerships, we continue to evolve strategies as companies grow, ensuring sustained market leadership in organic discovery.
+Trend Growth Partners is a premier organic growth consultancy specializing in harnessing multiple organic channels to deliver scalable, sustainable business growth for ambitious clients. Our team of seasoned strategists and systems thinkers leverages cutting-edge technology and advanced SEO practices to create integrated, channel-synergistic growth solutions that drive measurable results without relying on paid media or sponsored promotions. By focusing exclusively on organic growth strategies, we lower acquisition costs, build lasting visibility, and foster authentic brand loyalty across every customer interaction. With a proven track record of success and a relentless commitment to excellence, we empower our clients to achieve market leadership and exceed their most ambitious goals—offering the precision, reliability, and innovation needed to thrive in an increasingly competitive landscape.
 
 ![Dan Kuthy](https://raw.githubusercontent.com/dan-tgp/Logos/refs/heads/main/Dan_headshot_circle_150-150.png) | ![Ashley Kemp](https://raw.githubusercontent.com/dan-tgp/Logos/refs/heads/main/ash-headshot-150x150.png) |
 |:--:|:--:|
