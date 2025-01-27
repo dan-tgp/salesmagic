@@ -18,13 +18,13 @@ Prepared by [Preparer Name], [Preparer Title]
 
 ## Project Roadmap
 
-| Project # | Project Name | Est. Completion Date | Complete When | Cost |
-|-----------|--------------|---------------------|---------------|------|
-| 1 | [Project 1 Name] | [Date] | [Key completion conditions] | $[XX,XXX] |
-| 2 | [Project 2 Name] | [Date] | [Key completion conditions] | $[XX,XXX] |
-| 3 | [Project 3 Name] | [Date] | [Key completion conditions] | $[XX,XXX] |
-| [X] | Account Management & Reporting | [End Date] | [Key completion conditions] | Included |
-|   | **Total Investment** |  |  | **$[TOTAL]** |
+| Project # | Project Name | Duration | Key Benefit | Cost |
+|-----------|--------------|------------------|-------------|------|
+| 1 | [Project 1 Name] | [X months] | [Key benefit] | $[XX,XXX] |
+| 2 | [Project 2 Name] | [X months] | [Key benefit] | $[XX,XXX] |
+| 3 | [Project 3 Name] | [X months] | [Key benefit] | $[XX,XXX] |
+| [N] | Account Management & Reporting | [X months] | [Key benefit] | $[XX,XXX] |
+|   | **Total Investment** | [X months] |  | **$[TOTAL]** |
 
 ```mermaid
 gantt
