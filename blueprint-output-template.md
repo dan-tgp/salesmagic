@@ -11,13 +11,15 @@
 *[Blueprint Date]*
 
 Prepared for [Client Contact Name], [Client Contact Title]\
-Domain: [Client Name]([Domain URL])
+Domain: [Client Name]([Domain URL])\
+<img src="[Client Logo URL]" alt="Client Logo" width="150">
 
 Prepared by [Preparer Name], [Preparer Title]
 
 
 
 ## Executive Summary
+<!-- The Executive Summary should be no more than 1 paragraph and stay high-level and strategic. -->
 [Executive summary of the client's needs, situation, opportunity, and the Blueprint.]
 
 ## Project Roadmap
