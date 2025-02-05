@@ -8,6 +8,18 @@ Response:
 Prompt: "The key insights on the current organic performance are..."
 Response:
 
+### Organic Competitive Landscape Key Insights
+Prompt: "The key insights on the current organic performance are..."
+Response:
+
+### Traffic & Conversion Distribution Key Insights
+Prompt: "The key insights on the current organic performance are..."
+Response:
+
+### Key Organic Content Opportunities
+Prompt: "The key insights on the current organic performance are..."
+Response:
+
 ### Account Management
 Prompt: "The client's account management and reporting needs are as follows..."
 Response:
