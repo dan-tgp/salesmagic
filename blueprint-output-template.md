@@ -55,39 +55,51 @@ gantt
 ### Current Organic Performance
 *Data Source: Ahrefs & GA4*
 
-| Metric | Current Value | Industry Average |
+| Metric | [Client Name] | Industry Average |
 |:-------|:-------------|:-----------------|
 | Domain Rating | [DR] | [Industry Avg DR] |
 | Monthly Organic Traffic | [Traffic] | [Industry Avg Traffic] |
 | Ranking Keywords | [# Keywords] | [Industry Avg Keywords] |
 | Traffic Value | $[Value] | $[Industry Avg Value] |
 
-Key Insights
+**Key Insights:**
 - [Current Organic Performance Key Insight 1]
 - [Current Organic Performance Key Insight 2]
 - [Current Organic Performance Key Insight 3]
-- [Current Organic Performance Key Insight 4]
 
+### Organic Competitive Landscape
 
-### Competitive Landscape
+| Key Competitor | Domain Rating | Monthly Traffic | Ranking Keywords | Traffic Value |
+|:-----------:|:-------------:|:----------------:|:-----------------:|:--------------:|
+| [Comp 1] | [DR] | [Traffic] | [Keywords] | $[Value] |
+| [Comp 2] | [DR] | [Traffic] | [Keywords] | $[Value] |
+| [Comp 3] | [DR] | [Traffic] | [Keywords] | $[Value] |
+| **[Client Name]** | **[DR]** | **[Traffic]** | **[Keywords]** | **$[Value]** |
 
-| Competitor | Domain Rating | Monthly Traffic | Ranking Keywords | Traffic Value | Content Focus |
-|:-----------|:-------------|:----------------|:-----------------|:--------------|:--------------|
-| [Comp 1] | [DR] | [Traffic] | [Keywords] | $[Value] | [Focus Areas] |
-| [Comp 2] | [DR] | [Traffic] | [Keywords] | $[Value] | [Focus Areas] |
-| [Comp 3] | [DR] | [Traffic] | [Keywords] | $[Value] | [Focus Areas] |
-| [Client] | [DR] | [Traffic] | [Keywords] | $[Value] | [Focus Areas] |
+**Key Insights:**
+- [Competitive Landscape Key Insight 1]
+- [Competitive Landscape Key Insight 2]
+- [Competitive Landscape Key Insight 3]
 
 ### Traffic & Conversion Distribution
 
-| Traffic Source | % of Traffic | % of Conversions |
-|:--------------|:-------------|:-----------------|
+| Traffic Source | % of Sessions | % of Conversions |
+|:--------------:|:-------------:|:-----------------:|
 | Organic Search | [%] | [%] |
+| Organic Video | [%] | [%] |
+| Organic Social | [%] | [%] |
+| Email | [%] | [%] |
+| Paid Search | [%] | [%] |
+| Paid Social | [%] | [%] |
 | Direct | [%] | [%] |
 | Referral | [%] | [%] |
-| Social | [%] | [%] |
-| Other | [%] | [%] |
+| Other | [Remaining %] | [Remaining %] |
 | **Total** | **100%** | **100%** |
+
+**Key Insights:**
+- [Traffic & Conversion Distribution Insight 1]
+- [Traffic & Conversion Distribution Insight 2]
+- [Traffic & Conversion Distribution Insight 3]
 
 ### Content Opportunities
 
