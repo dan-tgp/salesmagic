@@ -112,6 +112,11 @@ gantt
 | [Topic Cluster 5] | [Volume] | [High/Med/Low] | [Strong/Weak/None] | [High/Med/Low] | [High/Med/Low] |
 | **Total** | **[Volume]** |  |  |  |  |
 
+**Key Insights:**
+- [Key Organic Content Opportunities Insight 1]
+- [Key Organic Content Opportunities Insight 2]
+- [Key Organic Content Opportunities Insight 3]
+
 ## Project Details
 ### Project 1: [Project Name]
 
