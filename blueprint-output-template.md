@@ -1,5 +1,5 @@
 <!-- TGP Blueprint Output Template -->
-<!-- Version 1.2 -->
+<!-- Version 1.3 -->
 <!-- IMPORTANT NOTE TO CLAUDE: This template should be populated using enhanced versions of the input form content.
      Transform all shorthand inputs into polished, professional proposal language.
      Maintain consistency with style guide while expanding and improving upon the base input.
@@ -11,7 +11,11 @@
 *[Blueprint Date]*
 
 Prepared for [Client Contact Name], [Client Contact Title]\
+Domain: [Client Name]([Domain URL])
+
 Prepared by [Preparer Name], [Preparer Title]
+
+
 
 ## Executive Summary
 [Executive summary of the client's needs, situation, opportunity, and the Blueprint.]
