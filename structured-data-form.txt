@@ -54,10 +54,13 @@ Competitor 3 Content Focus:
 ## Traffic & Conversion Distribution
 Source | Traffic % | Conversion %
 Organic Search: 
+Organic Video:
+Organic Social:
+Email:
+Paid Search:
+Paid Social:
 Direct: 
 Referral: 
-Social: 
-Other: 
 
 ## Content Opportunities
 [List 5 content categories with associated topic clusters, including for each:]
