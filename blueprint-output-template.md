@@ -24,12 +24,12 @@ Prepared by [Preparer Name], [Preparer Title]
 
 ## Project Roadmap
 
-| Project # | Project Name | Duration | Key Benefit | Cost |
+| # | Project Name | Duration | Key Benefit | Investment |
 |:---------:|:------------:|:--------:|:----------:|:----:|
 | 1 | [Project 1 Name] | [X months] | [Key benefit] | $[XX,XXX] |
 | 2 | [Project 2 Name] | [X months] | [Key benefit] | $[XX,XXX] |
 | 3 | [Project 3 Name] | [X months] | [Key benefit] | $[XX,XXX] |
-| [N] | Account Management & Reporting | [X months] | [Key benefit] | $[XX,XXX] |
+| [N] | Account Management & Reporting | [X months] | Successful collaboration & communication | $[XX,XXX] |
 |   | **Total Investment** | [X months] |  | **$[TOTAL]** |
 
 ```mermaid
@@ -50,16 +50,24 @@ gantt
     section Account Management
     Account Management & Reporting :[Start Date], [End Date]
 ```
-## Market Opportunity Analysis
+## Market Research & Key Insights
 
 ### Current Organic Performance
+*Data Source: Ahrefs & GA4*
 
-| Metric | Current Value | Industry Average | Growth Opportunity |
-|:-------|:-------------|:-----------------|:-------------------|
-| Domain Rating | [DR] | [Industry Avg DR] | [+/- Difference] |
-| Monthly Organic Traffic | [Traffic] | [Industry Avg Traffic] | [Potential Increase] |
-| Ranking Keywords | [# Keywords] | [Industry Avg Keywords] | [Keyword Gap] |
-| Traffic Value | $[Value] | $[Industry Avg Value] | $[Value Opportunity] |
+| Metric | Current Value | Industry Average |
+|:-------|:-------------|:-----------------|
+| Domain Rating | [DR] | [Industry Avg DR] |
+| Monthly Organic Traffic | [Traffic] | [Industry Avg Traffic] |
+| Ranking Keywords | [# Keywords] | [Industry Avg Keywords] |
+| Traffic Value | $[Value] | $[Industry Avg Value] |
+
+Key Insights
+- [Current Organic Performance Key Insight 1]
+- [Current Organic Performance Key Insight 2]
+- [Current Organic Performance Key Insight 3]
+- [Current Organic Performance Key Insight 4]
+
 
 ### Competitive Landscape
 
