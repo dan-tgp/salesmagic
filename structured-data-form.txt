@@ -15,60 +15,47 @@ Number of Projects:
 Account Manager Name:
 Account Manager Title:
 
-### MARKET OPPORTUNITY ANALYSIS
+### Market Research & Key Insights
 
-## MARKET ANALYSIS DATA
-Current Domain Rating: 
-Monthly Organic Traffic: 
-Number of Ranking Keywords: 
-Estimated Traffic Value: 
+## Current Organic Performance
+| Metric | [Client Name] | Industry Average |
+|:-------|:-------------|:-----------------|
+| Domain Rating | [DR] | [Industry Avg DR] |
+| Monthly Organic Traffic | [Traffic] | [Industry Avg Traffic] |
+| Ranking Keywords | [# Keywords] | [Industry Avg Keywords] |
+| Traffic Value | $[Value] | $[Industry Avg Value] |
 
-### Industry Averages
-Average Domain Rating in Industry: 
-Average Monthly Traffic: 
-Average Keywords: 
-Average Traffic Value: 
-
-### Top 3 Competitors
-Competitor 1 Name: 
-Competitor 1 DR: 
-Competitor 1 Traffic: 
-Competitor 1 Keywords: 
-Competitor 1 Traffic Value: 
-Competitor 1 Content Focus: 
-
-Competitor 2 Name: 
-Competitor 2 DR: 
-Competitor 2 Traffic: 
-Competitor 2 Keywords: 
-Competitor 2 Traffic Value: 
-Competitor 2 Content Focus: 
-
-Competitor 3 Name: 
-Competitor 3 DR: 
-Competitor 3 Traffic: 
-Competitor 3 Keywords: 
-Competitor 3 Traffic Value: 
-Competitor 3 Content Focus: 
+### Organic Competitive Landscape
+| Key Competitor | Domain Rating | Monthly Traffic | Ranking Keywords | Traffic Value |
+|:-----------:|:-------------:|:----------------:|:-----------------:|:--------------:|
+| [Comp 1] | [DR] | [Traffic] | [Keywords] | $[Value] |
+| [Comp 2] | [DR] | [Traffic] | [Keywords] | $[Value] |
+| [Comp 3] | [DR] | [Traffic] | [Keywords] | $[Value] |
+| **[Client Name]** | **[DR]** | **[Traffic]** | **[Keywords]** | **$[Value]** |
 
 ## Traffic & Conversion Distribution
-Source | Traffic % | Conversion %
-Organic Search: 
-Organic Video:
-Organic Social:
-Email:
-Paid Search:
-Paid Social:
-Direct: 
-Referral: 
+| Traffic Source | % of Sessions | % of Conversions |
+|:--------------:|:-------------:|:-----------------:|
+| Organic Search | [%] | [%] |
+| Organic Video | [%] | [%] |
+| Organic Social | [%] | [%] |
+| Email | [%] | [%] |
+| Paid Search | [%] | [%] |
+| Paid Social | [%] | [%] |
+| Direct | [%] | [%] |
+| Referral | [%] | [%] |
+| Other | [Remaining %] | [Remaining %] |
+| **Total** | **100%** | **100%** |
 
-## Content Opportunities
-[List 5 content categories with associated topic clusters, including for each:]
-- Estimated Monthly Volume
-- Competition Level
-- Current Coverage
-- Implementation Effort
-- Priority Level
+## Key Organic Content Opportunities
+| Content Topic | Monthly Volume | Competition | Current Coverage | Effort | Priority |
+|:---------------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Topic Cluster 1] | [Volume] | [High/Med/Low] | [Strong/Weak/None] | [High/Med/Low] | [High/Med/Low] |
+| [Topic Cluster 2] | [Volume] | [High/Med/Low] | [Strong/Weak/None] | [High/Med/Low] | [High/Med/Low] |
+| [Topic Cluster 3] | [Volume] | [High/Med/Low] | [Strong/Weak/None] | [High/Med/Low] | [High/Med/Low] |
+| [Topic Cluster 4] | [Volume] | [High/Med/Low] | [Strong/Weak/None] | [High/Med/Low] | [High/Med/Low] |
+| [Topic Cluster 5] | [Volume] | [High/Med/Low] | [Strong/Weak/None] | [High/Med/Low] | [High/Med/Low] |
+| **Total** | **[Volume]** |  |  |  |  |
 
 ### PROJECT 1
 Project Name: 
