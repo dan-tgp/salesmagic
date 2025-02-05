@@ -1,7 +1,8 @@
 # TGP BLUEPRINT INPUT FORM
 
 ## BLUEPRINT BASICS
-Client Organization Name: 
+Client Organization Name:
+Client Domain URL: 
 Preparer Name: 
 Preparer Title: 
 Client Contact Name: 
@@ -72,6 +73,7 @@ Implementation Model: (Full Client, Full TGP, or TGP Hours Budget)
 Project Cost:
 Timeline (months): 
 Expected Start Date:
+Key Benefit for Summary Table:
 
 ### PROJECT 2
 Project Name: 
@@ -79,6 +81,7 @@ Implementation Model: (Full Client, Full TGP, or TGP Hours Budget)
 Project Cost: $
 Timeline (months): 
 Expected Start Date:
+Key Benefit for Summary Table:
 
 [Continue pattern for additional projects...]
 
