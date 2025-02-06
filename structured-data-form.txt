@@ -3,6 +3,7 @@
 ## BLUEPRINT BASICS
 Client Organization Name:
 Client Domain URL: 
+Client Logo URL:
 Preparer Name: 
 Preparer Title: 
 Client Contact Name: 
