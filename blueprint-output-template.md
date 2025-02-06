@@ -130,7 +130,7 @@ gantt
 - [Key success factor 2]
 - [Key success factor 3]
 
-- **KPIs and Metrics:**
+**KPIs and Metrics:**
 - [Key peformance indicator or metric 1]
 - [Key peformance indicator or metric 2]
 - [Key peformance indicator or metric 3]
