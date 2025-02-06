@@ -26,20 +26,16 @@ Response:
 
 ## PROJECT 1: [Project Name]
 
-### Problem Statement
-Prompt: "The main issue we're solving here is..."
-Response:
-
-### Solution Approach
-Prompt: "Here's how we'll address this..."
+### Description
+Prompt: "The description of the project is..."
 Response:
 
 ### Keys to Success
 Prompt: "The critical factors will be..."
 Response:
 
-### Completion Conditions
-Prompt: "We'll know we're done when..."
+### Deliverables
+Prompt: "We'll know we're done when we've delivered..."
 Response:
 
 ### Investment Rationale
@@ -47,7 +43,7 @@ Prompt: "This is worth doing because..."
 Response:
 
 ### KPIs & Success Metrics
-Prompt: "We'll be able to measure our success or performance on this project by the following..."
+Prompt: "We'll be able to measure our success or performance on this project by the following metrics..."
 Response:
 
 ### Required Resources
