@@ -22,7 +22,7 @@ Prepared by [Preparer Name], [Preparer Title]
 <!-- The Executive Summary should be no more than 1 paragraph and stay high-level and strategic. -->
 [Executive summary of the client's needs, situation, opportunity, and the Blueprint.]
 
-## Project Roadmap
+## Blueprint Summary
 
 | # | Project Name | Duration | Key Benefit | Investment |
 |:---------:|:------------:|:--------:|:----------:|:----:|
@@ -30,11 +30,12 @@ Prepared by [Preparer Name], [Preparer Title]
 | 2 | [Project 2 Name] | [X months] | [Key benefit] | $[XX,XXX] |
 | 3 | [Project 3 Name] | [X months] | [Key benefit] | $[XX,XXX] |
 | [N] | Account Management & Reporting | [X months] | Successful collaboration & communication | $[XX,XXX] |
-|   | **Total Investment** | [X months] |  | **$[TOTAL]** |
+|   | **Total Investment** | **[X months]** |  | **$[TOTAL]** |
 
+<!-- Add all of the Projects in the Blueprint to the mermaid Gantt chart -->
 ```mermaid
 gantt
-    title [Client Name] - [Service] Projects
+    title [Client Name] - Implementation Roadmap
     dateFormat  YYYY-MM-DD
     axisFormat %b %Y
     
@@ -51,9 +52,10 @@ gantt
     Account Management & Reporting :[Start Date], [End Date]
 ```
 ## Market Research & Key Insights
+*Data Source: Ahrefs & GA4*
 
 ### Current Organic Performance
-*Data Source: Ahrefs & GA4*
+
 
 | Metric | [Client Name] | Industry Average |
 |:-------|:-------------|:-----------------|
@@ -120,17 +122,13 @@ gantt
 ## Project Details
 ### Project 1: [Project Name]
 
-**Problem:**
-[Detailed description of the problem or issues with the client's [platform/business area] that this project aims to address.]
-
-**Solution:**
-[Detailed description of the approach and key services that Trend Growth Partners will provide to solve the identified problems.]
+**Description:**
+[Detailed description of the problem that this project aims to address. Make this 2 paragraphs or less.]
 
 **Keys to Success:**
 - [Key success factor 1]
 - [Key success factor 2]
 - [Key success factor 3]
-- [Additional key success factors as needed]
 
 **Implementation Model:**
 [If the client is implementing the project...]
@@ -143,30 +141,22 @@ We have budgeted [XX] hours for the implementation of [project deliverables] on 
 Trend Growth Partners will implement this project completely.
 
 **Cost & Timeline:**
-The cost of Project [#] is $[XX,XXX] and is expected to take approximately [X] months to complete.
+The cost of the [Project Name] is $[XX,XXX] and is expected to take [X] months and be complete on or before [Date].
 
-**Expected Completion Date:**
-This project is expected to be completed by [Date].
-
-**Project Complete When:**
+**Deliverables:**
 1. [First specific, measurable condition that must be met]
 2. [Second specific, measurable condition that must be met]
 3. [Third specific, measurable condition that must be met]
-4. [Fourth specific, measurable condition that must be met]
 
 **Why Make This Investment?:**
 - [Bullet point 1 explaining the value and rationale for the investment]
 - [Bullet point 2 explaining the value and rationale for the investment]
 - [Bullet point 3 explaining the value and rationale for the investment]
-- [Bullet point 4 explaining the value and rationale for the investment]
-- [Bullet point 5 explaining the value and rationale for the investment]
 
 **Resources Required:**
 - [Bullet point 1 describing the resources, access, or support needed from the client]
 - [Bullet point 2 describing the resources, access, or support needed from the client]
 - [Bullet point 3 describing the resources, access, or support needed from the client]
-- [Bullet point 4 describing the resources, access, or support needed from the client]
-- [Bullet point 5 describing the resources, access, or support needed from the client]
 
 [Additional Project sections following same format...]
 
@@ -176,7 +166,6 @@ This project is expected to be completed by [Date].
 - [Bullet point 1 describing the account management, communication, and reporting requriements.]
 - [Bullet point 2 describing the account management, communication, and reporting requriements.]
 - [Bullet point 3 describing the account management, communication, and reporting requriements.]
-- [Bullet point 4 describing the account management, communication, and reporting requriements.]
 
 ### About Trend Growth Partners
 
