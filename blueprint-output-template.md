@@ -130,6 +130,11 @@ gantt
 - [Key success factor 2]
 - [Key success factor 3]
 
+- **KPIs and Metrics:**
+- [Key peformance indicator or metric 1]
+- [Key peformance indicator or metric 2]
+- [Key peformance indicator or metric 3]
+
 **Implementation Model:**
 [If the client is implementing the project...]
 [Client] will implement the solutions identified in this project based on the specifications delivered by Trend Growth Partners.
