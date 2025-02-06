@@ -103,7 +103,7 @@ gantt
 - [Traffic & Conversion Distribution Insight 2]
 - [Traffic & Conversion Distribution Insight 3]
 
-### Key Organic Content Opportunities
+### Top Organic Content Opportunities
 
 | Content Topic | Monthly Volume | Competition | Current Coverage | Effort | Priority |
 |:---------------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
@@ -122,7 +122,7 @@ gantt
 ## Project Details
 ### Project 1: [Project Name]
 
-**Description:**
+**Description:**\
 [Detailed description of the problem that this project aims to address. Make this 2 paragraphs or less.]
 
 **Keys to Success:**
@@ -144,9 +144,9 @@ Trend Growth Partners will implement this project completely.
 The cost of the [Project Name] is $[XX,XXX] and is expected to take [X] months and be complete on or before [Date].
 
 **Deliverables:**
-1. [First specific, measurable condition that must be met]
-2. [Second specific, measurable condition that must be met]
-3. [Third specific, measurable condition that must be met]
+1. [First specific deliverable provided to client]
+2. [Second specific deliverable provided to client]
+3. [Third specific deliverable provided to client]
 
 **Why Make This Investment?:**
 - [Bullet point 1 explaining the value and rationale for the investment]
